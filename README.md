@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/clangplusplus-catch.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/clangplusplus-catch)
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/clangplusplus-catch/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/clangplusplus-catch/actions)
 
-### display_name="C++ (clang++), Catch"
-### image_name="[cyberdojofoundation/clangpp_catch](https://hub.docker.com/repository/docker/cyberdojofoundation/clangpp_catch)"
+### display_name="C++ (clang++ 18.1.3), Catch 2.13.10"
+### image_name="[ghcr.io/cyber-dojo-languages/clangpp_catch](https://github.com/cyber-dojo-languages/clangplusplus-catch/pkgs/container/clangplusplus_catch)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

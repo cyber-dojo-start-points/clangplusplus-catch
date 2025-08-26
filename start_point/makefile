@@ -18,10 +18,6 @@ CXXFLAGS += -fno-omit-frame-pointer
 HPP_FILES = $(wildcard *.hpp)
 COMPILED_HPP_FILES = $(patsubst %.hpp,%.compiled_hpp,$(HPP_FILES))
 CPP_FILES = $(wildcard *.cpp)
-OBJ_FILES = $(patsubst %.cpp,%.o,$(CPP_FILES)) /usr/lib/catch_main.o
-
-%.o: %.cpp
-	@$(CXX) -c -o $@ $< $(CXXFLAGS)
 
 .PHONY: test.output
 test.output: test makefile
