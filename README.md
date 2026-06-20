@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/clangplusplus-catch/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/clangplusplus-catch/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C++ (clang++ 18.1.3), Catch 2.13.10"
 ### image_name="[ghcr.io/cyber-dojo-languages/clangpp_catch](https://ghcr.io/cyber-dojo-languages/clangpp_catch)"
