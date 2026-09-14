@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    ": FAILED:$": 1,
+    "SIGSEGV - Segmentation violation signal$": 1,
+    "^test cases: 1 \\| 1 failed$": 1,
+    "^assertions: 1 \\| 1 failed$": 1
+  }
+}

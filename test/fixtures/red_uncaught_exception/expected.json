@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    ": FAILED:$": 1,
+    "^due to unexpected exception with message:$": 1,
+    "^test cases: 1 \\| 1 failed$": 1,
+    "^assertions: 1 \\| 1 failed$": 1
+  }
+}
