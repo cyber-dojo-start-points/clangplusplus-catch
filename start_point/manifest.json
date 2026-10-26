@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_catch:6ca18bb@sha256:e7066442f25bc065db22d37725add439e232ab999ecb4642fdac49516157988d",
-  "display_name": "C++ (clang++ 23.1.4), Catch 3.16.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_catch:525412d@sha256:dbe0b75b13a1782b48d5dc01f72a1eae9921412da1b746a5527880ff480f4583",
+  "display_name": "C++ (clang++ 23.1.5), Catch 3.16.1",
   "language": [
     "C++ (clang++)",
-    "23.1.4"
+    "23.1.5"
   ],
   "test_framework": [
     "Catch",
